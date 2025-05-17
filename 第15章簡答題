@@ -1,0 +1,2 @@
+4. 在FileInfo物件建立新文字檔是使用___CreateText___方法，新增文字內容至檔尾是呼叫___AppendText___方法來開啟檔案。
+5. 檔案對話方塊依用途分為2種控制項：___OpenFileDialog___和___SaveFileDialog___。
